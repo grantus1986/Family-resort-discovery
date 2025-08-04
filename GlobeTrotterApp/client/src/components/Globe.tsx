@@ -1,0 +1,1 @@
+// Globe.tsx placeholder content

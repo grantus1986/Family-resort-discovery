@@ -1,0 +1,1 @@
+// DestinationPanel.tsx placeholder content
